@@ -1,0 +1,9 @@
+{
+    "name": "No_Save_Delete",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pxntxrez/NoSaveDelete",
+    "description": "This mod for R.E.P.O. prevents save files from being deleted upon player death, allowing you to continue playing without losing progress.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
